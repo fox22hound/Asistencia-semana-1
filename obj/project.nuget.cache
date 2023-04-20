@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RViAu5hGWA0umtO/B3Mglbi5GZsICA4wjSVByDfOCi9cbWuKE9AYnerRvhn2x//Q2MDBtdHbmz+MMAM+EpGHVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
